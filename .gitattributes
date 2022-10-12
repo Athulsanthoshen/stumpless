@@ -1,4 +1,4 @@
-*       text eol=lf
+*       text eol=lf // Starting of the program
 
 *.c     text eol=lf
 *.cpp   text eol=lf linguist-documentation
@@ -9,7 +9,7 @@
 *.i     text eol=lf
 *.mc    text eol=crlf
 *.pl    text eol=lf
-*.png   binary
+*.png   binary // binary numbers are 0 & 1 
 *.ps1   text eol=crlf
 *.sh    text eol=lf
 *.rb    text eol=lf
